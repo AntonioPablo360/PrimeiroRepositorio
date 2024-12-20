@@ -1,2 +1,2 @@
 # PrimeiroRepositorio
- Repositório Teste
+ Repositório Teste, utilizando Git e GitHub
